@@ -1,4 +1,4 @@
-## Olá! Eu sou Pedro Soares, sou técnico em informática e estou graduando Engenharia de Software 👨🏻‍💻
+## Olá! Sou Pedro Soares, atualmente estou graduando Engenharia de Software 👨🏻‍💻
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pedrosoarescode)
 
 
